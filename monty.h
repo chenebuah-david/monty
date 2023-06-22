@@ -9,7 +9,7 @@
 #include <ctype.h>
 /**
  * struct stack_s - This doubly links the list representation
- * 		    of a stack or a queue
+ *			of a stack or a queue
  * @m: This is the nteger
  * @next: This points to the next element of the stack or a queue
  * @prev: This points to the previous element of the stack or a queue

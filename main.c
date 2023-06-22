@@ -1,6 +1,6 @@
 #include "monty.h"
-
 bus_t bus = {NULL, NULL, NULL, 0};
+
 /**
  * main - This is the monty code interpreter
  * @argv: monty file location
